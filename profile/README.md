@@ -1,12 +1,5 @@
-## Hi there 👋
+## Like Two Young Children Exchanging Monologues.
 
-<!--
+**Lack of Conversation**. LLMs are incredible question and answer machines, but they **lack conversation** - anticipation fueled by context from previous encounters, intuition to know what is being asked and said, and engagement defined by natrual dialogue. Why? Because they are largely trained on text pulled from the Internet, and that is **not how we really talk**.
 
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+Trained on non-Internet data. Olive is a research project aimed at building an **“intuition layer”**—a companion model designed to work alongside LLMs. Trained on data beyond typical Internet sources, Olive aspires to unlock deeper, **more meaningful conversations**.
